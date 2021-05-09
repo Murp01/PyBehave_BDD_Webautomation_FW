@@ -23,3 +23,9 @@ If you want to run the tests in PyCharm, you'll need to create appropriate confi
 
 
 ![image](https://user-images.githubusercontent.com/22293195/117587379-96f4fe80-b115-11eb-936a-eb5d34495440.png)
+
+
+Install multirun plugin (Settings > Plugins) then create a multirun runner
+
+![image](https://user-images.githubusercontent.com/22293195/117587435-d91e4000-b115-11eb-8757-3cdba083fe8a.png)
+
