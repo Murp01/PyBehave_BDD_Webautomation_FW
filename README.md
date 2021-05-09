@@ -18,3 +18,8 @@ python -m behave tests/acceptance
 ```
 
 If you want to run the tests in PyCharm, you'll need to create appropriate configurations. We cover this in the course!
+
+![image](https://user-images.githubusercontent.com/22293195/117587372-8b093c80-b115-11eb-955d-034096da48e6.png)
+
+
+![image](https://user-images.githubusercontent.com/22293195/117587379-96f4fe80-b115-11eb-936a-eb5d34495440.png)
